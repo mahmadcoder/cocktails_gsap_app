@@ -65,7 +65,7 @@ const Hero = () => {
     <>
       <section id="hero" className="noisy">
         {/* u can change this according to our own shop or name u like  */}
-        <h1 className="title">MoJITO</h1>
+        <h1 className="title">MARTiNi</h1>
         <img
           src="/images/hero-left-leaf.png"
           alt="left-leaf"
